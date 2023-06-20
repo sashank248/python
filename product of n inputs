@@ -1,0 +1,6 @@
+a=int(input())
+c=1
+for r in range(a):
+    b=(int(input()))
+    c=(c*b)
+print(c)
